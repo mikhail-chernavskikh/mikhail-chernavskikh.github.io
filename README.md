@@ -2,7 +2,7 @@
 
 I'm a PhD student at **Steklov Mathematical Institute** under supervision of Ivan Dynnikov
 
-📫 **Contact:** [Personal Website](mikhail-chernavskikh.github.io) · [ORCID](https://orcid.org/0000-0001-9513-7891) · mike.chernavskikh at gmail.com · 
+📫 **Contact:** [Personal Website](https://mikhail-chernavskikh.github.io/) · [ORCID](https://orcid.org/0000-0001-9513-7891) · mike.chernavskikh at gmail.com · 
 
 ---
 
